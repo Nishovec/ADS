@@ -27,6 +27,8 @@ public class Main {
             } else {
                 System.out.println("Composite ");
             }
+            // here we check for number for prime or not with for loop
+
         }
     }
 }

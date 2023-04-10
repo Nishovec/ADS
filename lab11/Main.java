@@ -15,6 +15,7 @@ public class Main {
 
         int min = findMinFromArr( array, n);
         System.out.println("Minimum is " + min);
+        // here we are finding min from array
     }
     public static int findMinFromArr(int[] arr, int n) {
 

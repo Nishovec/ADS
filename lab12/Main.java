@@ -28,5 +28,6 @@ public class Main {
          return ((arr[i] + findAverFromArr(arr, n, i+1))/n);
      }
      return (arr[i] + findAverFromArr(arr, n , i+1));
+     // here we are finding average from the array
     }
 }
